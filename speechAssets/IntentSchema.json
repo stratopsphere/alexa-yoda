@@ -1,0 +1,27 @@
+{
+  "intents": [
+    {
+      "intent": "",
+      "slots": [
+        
+      ]
+    },
+    {
+      "intent": "",
+      "slots": [
+      ]
+    },
+    {
+      "intent": ""
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
